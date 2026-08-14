@@ -22,4 +22,6 @@ Email[email](obozejohn@gmail.com) obozejohn@gmail.com
 
 Phone No[PhoneNo](+234 07062022778) whatsapp: +234 07062022778
 
+Connect with me on Linkedin[connect with me on linkedin](www.linkedin.com/in/john-ehiabhi-oboze)
 
+Download My CV [Download my cv]

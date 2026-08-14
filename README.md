@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio
 ## About Me
-hello, my name is John Oboze a Data Anlyst
+Hello, I am John Ehiabhi Oboze, a Data Analyst and problem solver passionate about helping businesses grow using Data and turning data into actionable insight for decision making. I am inspired and motivated into Senior analyst role, and helping African businesses make smarter decisions. I have built data dashboards that increase team productivity and performance by a huge margin.
 
 ## Skills
 ## Data visualization and Reporting (Power BI, Excel & SQL)
@@ -18,10 +18,10 @@ i analyze the project with total sales amount $6.18M, Total Propit $1.61M, and P
 ## Contacts Detail
 let's connect to make a different
 
-Email[email](obozejohn@gmail.com) obozejohn@gmail.com
+[email](obozejohn@gmail.com) obozejohn@gmail.com
 
-Phone No[PhoneNo](+234 07062022778) whatsapp: +234 07062022778
+[PhoneNo](+234 07062022778) whatsapp: +234 07062022778
 
-Connect with me on Linkedin[connect with me on linkedin](www.linkedin.com/in/john-ehiabhi-oboze)
+[connect with me on linkedin](www.linkedin.com/in/john-ehiabhi-oboze)
 
-Download My CV [Download my cv]
+[Download my cv](JOHN_OBOZE_Data_Analyst_CV.pdf)

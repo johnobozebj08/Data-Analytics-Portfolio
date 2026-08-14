@@ -11,7 +11,8 @@ I build dashboards and reporting visuals that helps stakeholder make quicker and
 
 
 ## Projects
-
+![!image](Project3 Sales &Profit Dashboard.png)
+i analyze the project with total sales amount $6.18M, Total Propit $1.61M, and Profit Margin $4.54M
 
 
 ## Contacts Detail

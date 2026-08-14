@@ -16,3 +16,10 @@ i analyze the project with total sales amount $6.18M, Total Propit $1.61M, and P
 
 
 ## Contacts Detail
+let's connect to make a different
+
+Email[email](obozejohn@gmail.com) obozejohn@gmail.com
+
+Phone No[PhoneNo](+234 07062022778) whatsapp: +234 07062022778
+
+
